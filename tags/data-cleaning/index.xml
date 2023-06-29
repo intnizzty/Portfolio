@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Cleaning on Project Portfolio</title>
+    <link>https://example.com/tags/data-cleaning/</link>
+    <description>Recent content in Data Cleaning on Project Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 May 2023 22:53:58 +0530</lastBuildDate><atom:link href="https://example.com/tags/data-cleaning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Visualization of Shoes Data</title>
+      <link>https://example.com/blogs/shoes-data/</link>
+      <pubDate>Sat, 27 May 2023 22:53:58 +0530</pubDate>
+      
+      <guid>https://example.com/blogs/shoes-data/</guid>
+      <description>I will display all the visualization that I made here since Github unable to display my data visualization :smile:
+Objective 1: To determine the frequency of customer membership status purchases by product gender Objective 2: To identify the quantity purchases by gender and product category Objective 3: To identify quantity purchases by gender and product brand Objective 4: To determine total sales by agent id name and product brand Objective 5: To analyse total sales by date We can move the date slider to our preference date</description>
+    </item>
+    
+  </channel>
+</rss>
